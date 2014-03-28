@@ -9,6 +9,10 @@ anyways.
 * [Introducción a Ruby](http://jj.github.io/ruby-para-impacientes)
 * [Curso de JavaScript](https://github.com/JJ/curso-js)
 
+## Some other tutorials I participate in
+
+* [Curso de Git](https://github.com/oslugr/curso-git)
+
 ## La asignatura que enseño en la [ETSIIT](http://etsiit.ugr.es)
 
 [Infraestructura Virtual](http://jj.github.io/IV/), un poco de
@@ -31,4 +35,4 @@ computación nube.
 
 [MIT License](http://chibicode.mit-license.org/)
 
-<a href="https://github.com/chibicode/solo"><img style="position: absolute; top: 0; right: 0; border: 0;" src="https://s3.amazonaws.com/github/ribbons/forkme_right_darkblue_121621.png" alt="Fork me on GitHub"></a>
+<a href="https://github.com/JJ/jj.github.io"><img style="position: absolute; top: 0; right: 0; border: 0;" src="https://s3.amazonaws.com/github/ribbons/forkme_right_darkblue_121621.png" alt="Fork me on GitHub"></a>
