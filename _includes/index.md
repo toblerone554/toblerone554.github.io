@@ -1,31 +1,16 @@
 
 ## A page to point to them all
 
-A few of the projects [I have in GitHub](http://github.com/JJ),
-anyways.
 
-## A few tutorials, most of them in Spanish
 
-* [Introducción a Ruby](http://jj.github.io/ruby-para-impacientes)
-* [Curso de JavaScript](https://github.com/JJ/curso-js)
+## Proyectos en los que colaboro
 
-## Some other tutorials I participate in
+* [Manual segun escritorio](https://github.com/toblerone554/manual-escritorios)
 
-* [Curso de Git](https://github.com/oslugr/curso-git)
-
-## La asignatura que enseño en la [ETSIIT](http://etsiit.ugr.es)
-
-[Infraestructura Virtual](http://jj.github.io/IV/), un poco de
-computación nube.
-
-## My open source novels
-
-* [Manuel the Magnificent Mechanical Man](http://jj.github.io/hoborg),
-  in English
 
 ## ObPicture
 
-![JJ Merelo](jj.png)
+![toblerone554](http://www.gravatar.com/avatar/6250405b19dd88d53b4efc53de9481fe.png)
 
 ## Based on
 
@@ -35,4 +20,4 @@ computación nube.
 
 [MIT License](http://chibicode.mit-license.org/)
 
-<a href="https://github.com/JJ/jj.github.io"><img style="position: absolute; top: 0; right: 0; border: 0;" src="https://s3.amazonaws.com/github/ribbons/forkme_right_darkblue_121621.png" alt="Fork me on GitHub"></a>
+<a href="https://github.com/toblerone554.github.io"><img style="position: absolute; top: 0; right: 0; border: 0;" src="https://s3.amazonaws.com/github/ribbons/forkme_right_darkblue_121621.png" alt="Fork me on GitHub"></a>
